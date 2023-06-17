@@ -1,0 +1,21 @@
+{
+  "name": "create-react-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "start:prod": "npx parcel production index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.2"
+  }
+}
